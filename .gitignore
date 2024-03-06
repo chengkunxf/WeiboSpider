@@ -122,6 +122,6 @@ dmypy.json
 
 
 .DS_Store
-cookie.txt
-middlewares.py
+*cookie*
+*middlewares*
 .idea
